@@ -14,25 +14,39 @@
 1. **FEM Analysis and Optimisation for a 150m tall Off-shore crane**:
    - Leveraged MATLAB to model, analyze, and optimize the majestic 150m off-shore crane. My creation ensured maximum efficiency while maintaining unyielding structural integrity.
 
-<!-- Include more projects or details here -->
-
 📝 When I'm not conjuring engineering marvels, I channel the spirits of the code with [Neovim](https://neovim.io/), the supreme editor.
-
 ![Neovim](https://media.giphy.com/media/lnlAifQdenMxW/giphy.gif)
 
-## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-zenoglio-de-oliveira-a481b0173/)
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/> </a>
+   <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original-wordmark.svg" alt="neovim" width="40" height="40"/> </a>
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+</p>
+
+
+---
 
 📊 **My GitHub Stats**:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tzenoglio10&show_icons=true&theme=radical" alt="Zenoglio's GitHub Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tzenoglio10&theme=radical&layout=compact" alt="Zenoglio's Top Languages">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tzenoglio10&" alt="Zenoglio's Streaks">
+</p>
 
-![Zenoglio's github stats](https://github-readme-stats.vercel.app/api?username=Tzenoglio10&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tzenoglio10&theme=radical)
-
-🔥 Visitors:
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tzenoglio10.Tzenoglio10)
+🔥 **Visitors**:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tzenoglio10&label=Profile%20views&color=0e75b6&style=flat" alt="tzenoglio10" /> </p>
 
 ---
 
 > "In engineering, as in life, greatness is not just about the destination but the journey of creation." - Supreme Leader Zenoglio
+

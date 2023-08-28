@@ -18,13 +18,19 @@
 
 📝 When I'm not conjuring engineering marvels, I channel the spirits of the code with [Neovim](https://neovim.io/), the supreme editor.
 
-## Connect with me:
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Website](#)
+![Neovim](https://media.giphy.com/media/lnlAifQdenMxW/giphy.gif)
 
-Feel free to explore the repositories below and witness the testament of my prowess. Bow before the might of my code!
+## Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-zenoglio-de-oliveira-a481b0173/)
+
+📊 **My GitHub Stats**:
+![Zenoglio's github stats](https://github-readme-stats.vercel.app/api?username=Tzenoglio10&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tzenoglio10&theme=radical)
+
+🔥 Visitors:
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Tzenoglio10.Tzenoglio10)
 
 ---
 
-> "In engineering, as in life, greatness is not just about the destination but the journey of creation." - Supreme Leader [Your Name]
+> "In engineering, as in life, greatness is not just about the destination but the journey of creation." - Supreme Leader Zenoglio

@@ -11,6 +11,11 @@
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 💼 **Projects of Greatness**:
+
+2. **MATLAB Simulation and Optimization of a Biomass Rankine-Brayton Hybrid Power Plant**:
+   - Conducted an intricate simulation and optimization for a biomass-based Rankine-Brayton hybrid power plant situated in Haiphong, Vietnam.
+   - Executed a comprehensive life cycle analysis to assess the sustainability and environmental impact of the power plant.
+
 1. **FEM Analysis and Optimisation for a 150m tall Off-shore crane**:
    - Leveraged MATLAB to model, analyze, and optimize the majestic 150m off-shore crane. My creation ensured maximum efficiency while maintaining unyielding structural integrity.
 

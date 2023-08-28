@@ -1,4 +1,4 @@
-# Greetings, Mortals! I am [Your Name] 🌌
+# Greetings, Mortals! I am Zenoglio 🌌
 
 🛠 **Electrical Engineer** by training with a robust foundation in **Mechanical Engineering**.
 

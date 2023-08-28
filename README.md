@@ -24,6 +24,7 @@
 - [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-zenoglio-de-oliveira-a481b0173/)
 
 📊 **My GitHub Stats**:
+
 ![Zenoglio's github stats](https://github-readme-stats.vercel.app/api?username=Tzenoglio10&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tzenoglio10&theme=radical)

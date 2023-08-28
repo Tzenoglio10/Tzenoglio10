@@ -12,7 +12,7 @@
 
 💼 **Projects of Greatness**:
 
-2. **MATLAB Simulation and Optimization of a Biomass Rankine-Brayton Hybrid Power Plant**:
+1. **MATLAB Simulation and Optimization of a Biomass Rankine-Brayton Hybrid Power Plant**:
    - Conducted an intricate simulation and optimization for a biomass-based Rankine-Brayton hybrid power plant situated in Haiphong, Vietnam.
    - Executed a comprehensive life cycle analysis to assess the sustainability and environmental impact of the power plant.
 

@@ -20,7 +20,7 @@
    - Leveraged MATLAB to model, analyze, and optimize the majestic 150m off-shore crane. My creation ensured maximum efficiency while maintaining unyielding structural integrity.
 
 📝 When I'm not conjuring engineering marvels, I channel the spirits of the code with [Neovim](https://neovim.io/), the supreme editor.
-![Neovim](https://giphy.com/gifs/cute-think-pooh-777Aby0ZetYE8)
+![Neovim]([https://giphy.com/gifs/cute-think-pooh-777Aby0ZetYE8](https://giphy.com/gifs/cute-think-pooh-777Aby0ZetYE8))
 
 ---
 
